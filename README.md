@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @juicyen
-- 👀 I’m interested in data analysis and Big data.
+- 👋 Hi, I’m @amyyeeunchu
+- 👀 I’m interested in game development.
 - 🌱 I’m currently learning how to use GitHub.
-- 💞️ I’m looking to collaborate on game projects.
-- 📫 Feel free to reach out at juicyen.chu@gmail.com.
+- 📫 Feel free to reach out at amyyeeunchu@gmail.com.
 
 <!---
 juicyen/juicyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
